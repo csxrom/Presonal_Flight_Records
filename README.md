@@ -37,3 +37,12 @@ c) Introduction:
 #Landing Runway
 #ETA ATA
 #Parking Position for Arr Airport
+d) Upload:
+#Title: [Class]+[Special Meanings] (if any) +Flight Number+Route in Simplified Chinese
+#Basic Introduction:
+Flight Date
+Flight
+Route in Airport name and ICAO Code
+Aircraft
+Registration
+Seat
